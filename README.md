@@ -32,7 +32,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Notes
-The ISS travels at roughly 7.66 km/second and completes a full orbit of Earth about every 90 minutes. Because of this, its position can look noticeably different even a few seconds apart — so if you compare this app's output to another tracker at a slightly different moment, don't be surprised if the numbers don't match exactly. Both are correct; the station just moves fast.
+The ISS travels at roughly 7.66 km/second and completes a full orbit of Earth about every 90 minutes. Because of this, its position can look noticeably different even a few seconds apart - so if you compare this app's output to another tracker at a slightly different moment, don't be surprised if the numbers don't match exactly. Both are correct; the station just moves fast.
 
 What I'd add next[not right now tho]
 Show which country/ocean the ISS is currently over
